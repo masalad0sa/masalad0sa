@@ -70,3 +70,5 @@ Slow progress > fake expertise. 💪
 - Contribute to open-source in the future  
 
 ---
+## Social Media
+-https://www.linkedin.com/in/yajush-gorasiya-34813023a/
