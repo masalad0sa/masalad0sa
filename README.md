@@ -1,6 +1,6 @@
 # Hi 👋 I'm Yajush  
 
-🎓 Computer Science student | 💻 Aspiring Software Developer  
+🎓 Information Technology student | 💻 Aspiring Software Developer  
 📍 India  
 
 I’m a student who enjoys turning concepts into working code.  
@@ -38,9 +38,6 @@ Currently building projects while learning how real software is designed, develo
   → Complete SDLC documentation:  
   Requirements, DFDs, UML diagrams, SRS, Test Cases  
 
-- **Algorithm Implementations**  
-  → Heap Sort, Searching, Dynamic Programming, String Matching  
-
 *(More projects coming — learning never stops)*
 
 ---
@@ -49,8 +46,7 @@ Currently building projects while learning how real software is designed, develo
 
 - Advanced Java & backend concepts  
 - Better database design  
-- Clean code & project structure  
-- Agile & DevOps fundamentals  
+- Clean code & project structure    
 
 ---
 
